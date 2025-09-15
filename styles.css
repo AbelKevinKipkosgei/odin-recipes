@@ -1,3 +1,13 @@
 * {
   font-family: Verdana, Arial;
 }
+
+.main-container {
+  background-color: lightblue;
+  width: 800px;
+  margin: auto;
+}
+
+/* ul {
+  list-style: none;
+} */
